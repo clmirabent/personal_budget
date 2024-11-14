@@ -1,0 +1,23 @@
+{
+  "name": "personal_budget",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clmirabent/personal_budget.git"
+  },
+  "author": "clmirabent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clmirabent/personal_budget/issues"
+  },
+  "homepage": "https://github.com/clmirabent/personal_budget#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
